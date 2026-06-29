@@ -125,6 +125,7 @@ Recommendation Status : Success
 ```
 ## Output
 
+<img width="636" height="637" alt="Image" src="https://github.com/user-attachments/assets/bd3e2437-4fad-46fc-a758-c0c3e9b121b2" />
 
 ---
 
